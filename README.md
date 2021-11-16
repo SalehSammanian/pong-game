@@ -1,2 +1,3 @@
 # pong-game
-simple pong game developed using JavaFX
+A simple pong game that I developed while learning the basics of OOP and JavaFX.
+
